@@ -1,0 +1,3 @@
+dotnet ef migrations add InitialCreate --context Space01.Fibonacci.Data.Contexts.InMemoryContext --output-dir ../Space01.Fibonacci.Data/Migrations/InMemory
+
+dotnet ef migrations add InitialCreate --context Space01.Fibonacci.Data.Contexts.MsSqlDbContext --output-dir ../Space01.Fibonacci.Data/Migrations/MsSqlServer
