@@ -17,5 +17,5 @@ The last two numbers in the URL are the first and last numbers in a range. By de
 * and so on
 
 #### Demo
-A demo version is available at: https://fibonacci.azurewebsites.net/api/fibonacci/1/100
+A demo version with 10000 generated fibonacci numbers is available at: https://fibonacci.azurewebsites.net/api/fibonacci/1/100
 
