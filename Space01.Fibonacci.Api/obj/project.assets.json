@@ -12919,11 +12919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api.csproj",
+      "projectUniqueName": "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api.csproj",
       "projectName": "Space01.Fibonacci.Api",
-      "projectPath": "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api.csproj",
+      "projectPath": "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api\\obj\\",
+      "outputPath": "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -12944,8 +12944,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj": {
-              "projectPath": "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj"
+            "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj": {
+              "projectPath": "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj"
             }
           }
         }

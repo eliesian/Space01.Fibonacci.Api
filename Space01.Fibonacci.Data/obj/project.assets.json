@@ -3601,11 +3601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj",
+      "projectUniqueName": "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj",
       "projectName": "Space01.Fibonacci.Data",
-      "projectPath": "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj",
+      "projectPath": "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\Space01.Fibonacci.Data.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\obj\\",
+      "outputPath": "C:\\Projects2\\Space01.Fibonacci.Api\\Space01.Fibonacci.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
