@@ -8,3 +8,13 @@ C:\Projects\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2
 C:\Projects\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.AssemblyInfo.cs
 C:\Projects\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.dll
 C:\Projects\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.pdb
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\bin\Release\netcoreapp2.0\Space01.Fibonacci.Data.deps.json
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\bin\Release\netcoreapp2.0\Space01.Fibonacci.Data.runtimeconfig.json
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\bin\Release\netcoreapp2.0\Space01.Fibonacci.Data.runtimeconfig.dev.json
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\bin\Release\netcoreapp2.0\Space01.Fibonacci.Data.dll
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\bin\Release\netcoreapp2.0\Space01.Fibonacci.Data.pdb
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.csproj.CoreCompileInputs.cache
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.AssemblyInfoInputs.cache
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.AssemblyInfo.cs
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.dll
+C:\Projects2\Space01.Fibonacci.Api\Space01.Fibonacci.Data\obj\Release\netcoreapp2.0\Space01.Fibonacci.Data.pdb
