@@ -6,7 +6,7 @@ Test task for C# .Net Backend Developer
 2) Edit MsSqlConnectionString in the the appsettings.json file 
 3) Build the solution using: ``` dotnet build ```
 4) Change directory to Space01.Fibonacci.ApixSpace01.Fibonacci.Api and run the api using: ```dotnet run```
-5) Navigate a browser to http://localhost:53235/api/fibonacci/1/1 This request will build and populate the dataase and return the first fibonacci number.
+5) Navigate a browser to http://localhost:53235/api/fibonacci/1/1 This request will build and populate the database and return the first fibonacci number.
 
 #### Usage
 The last two numbers in the URL are the first and last numbers in a range. By default there are 10000 numbers created on startup, so the follwoing requests are possible:
